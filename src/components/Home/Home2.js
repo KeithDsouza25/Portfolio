@@ -12,7 +12,7 @@ import pdf from "../../Assets/Resume_Keith.pdf";
 import { AiOutlineDownload } from "react-icons/ai";
 import "react-pdf/dist/esm/Page/AnnotationLayer.css";
 import Button from "react-bootstrap/Button";
-import { BiColumns } from "react-icons/bi";
+
 
 function Home2() {
   return (
