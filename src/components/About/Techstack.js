@@ -17,9 +17,6 @@ function Techstack() {
         <DiPython />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <GiArtificialIntelligence/>
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
         <SiTensorflow />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
