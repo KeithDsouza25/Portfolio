@@ -1,6 +1,6 @@
 import React from "react";
 import { Col, Row } from "react-bootstrap";
-import { GiArtificialIntelligence } from "react-icons/si"
+import { GiArtificialIntelligence } from "react-icons/gi"
 import {
   DiJavascript1,
   DiReact,
