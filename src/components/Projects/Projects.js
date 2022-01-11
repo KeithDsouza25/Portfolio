@@ -29,7 +29,7 @@ function Projects() {
               isBlog={false}
               title="Chatterspace"
               description="Description"
-              link="https://github.com/KeithDsouza25/portfolio/"
+              link="https://github.com/KeithDsouza25"
             />
           </Col>
 
