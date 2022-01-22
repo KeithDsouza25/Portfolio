@@ -4,7 +4,6 @@ import {
   SiLinux,
   SiVisualstudiocode,
   SiJupyter,
-  SiHeroku,
   SiGithub,
   SiDocker,
   SiJenkins,
