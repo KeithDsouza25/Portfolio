@@ -5,7 +5,12 @@ import {
   SiVisualstudiocode,
   SiJupyter,
   SiHeroku,
-  SiGithub
+  SiGithub,
+  SiDocker,
+  SiJenkins,
+  SiPowerbi,
+  SiTableau,
+  SiMicrosoftexcel
 } from "react-icons/si";
 
 function Toolstack() {
@@ -18,13 +23,25 @@ function Toolstack() {
         <SiVisualstudiocode />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
+        <SiDocker />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiPowerbi />
+        </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiTableau/>
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiMicrosoftexcel/>
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
         <SiJupyter />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiGithub />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiHeroku />
+        <SiJenkins />
       </Col>
     </Row>
   );
